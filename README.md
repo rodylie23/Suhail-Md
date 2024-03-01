@@ -1,8 +1,5 @@
 BOT SLEEPING PROBLEM FIXED
- [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
-<p align="center">
-    <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/963f9c4a41319399f90be.jpg" alt="01" border="0" /></a>
-</p>
+ [![-----------------------------------------------------]
 
 
                      
