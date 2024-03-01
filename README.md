@@ -1,7 +1,7 @@
 BOT SLEEPING PROBLEM FIXED
  [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
-    <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/748df8b3b52de9d1d25da.jpg" alt="01" border="0" /></a>
+    <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/963f9c4a41319399f90be.jpg" alt="01" border="0" /></a>
 </p>
 
 
@@ -24,7 +24,7 @@ BOT SLEEPING PROBLEM FIXED
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Assalamu+O+Alaikum+Warahmatullah..&hearts;++;Self-taught+Back-End+Developer,;Always+creating+best+bots,;My+Hobby+Is+to+deploy+WhatsApp+bots,;Active+Hacker/Ready+to+hacker+any+thing,;Love+to+learn+new+stuffs..<3"></a>
 </p>
                        
-                       
+  <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/963f9c4a41319399f90be.jpg" alt="01" border="0" /></a>                     
   𝗢𝗪𝗡𝗘𝗥 𝗡𝗔𝗠𝗘 : 𝗜𝗕𝗥𝗔𝗛𝗜𝗠 𝗡𝗚𝗢𝗬𝗔
                        
  𝗢𝗪𝗡𝗘𝗥 𝗡𝗨𝗠𝗕𝗘𝗥 : +25410772666
