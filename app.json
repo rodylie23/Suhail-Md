@@ -9,7 +9,7 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name of Bot Owner",    
-      "value": "Mr Ibrahim",
+      "value": "𝗠𝗥 𝗜𝗕𝗥𝗔𝗛𝗜𝗠",
       "required" :true
     },   
      
@@ -109,7 +109,7 @@
     },
     "OPENAI_API_KEY": {
       "description": "put your OPENAI api key here.Get it from beta.openai.com ",
-      "value": "",
+      "value": "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",
       "required" :false
     }, 
     "ELEVENLAB_API_KEY": {
@@ -119,7 +119,7 @@
     }, 
     "REMOVE_BG_KEY": {
       "description": "put your REMOVE BG KEY here.Get it from removeBg.com ",
-      "value": "",
+      "value": "DJwc34NaWmhXmDxEeh6YUEmm",
       "required" :false
     },
     "MODE": {
@@ -128,12 +128,12 @@
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "Suhail Md",
+      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
       "required": false 
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "kingibrahim",
+      "value": "𝗜𝗕𝗥𝗔𝗛𝗜𝗠-𝗧𝗘𝗖𝗛",
       "required": false 
     }
   }, 
