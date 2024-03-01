@@ -1,5 +1,5 @@
 BOT SLEEPING PROBLEM FIXED
- iko[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+ [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
     <a href="https://ibb.co/N6NMDtn"><img src="https://telegra.ph/file/748df8b3b52de9d1d25da.jpg" alt="01" border="0" /></a>
 </p>
@@ -9,7 +9,12 @@ BOT SLEEPING PROBLEM FIXED
                       
    <div align="center">
                       👑<b>KING IBRAHIM MD</b>👑</b>
+	   
+ HAVING ANY PROBLEM DM MR👉👉https://wa.me/message/74F2PC4JA4F3P1
+  
+  
   <div align="center">
+	  
 </p>
 </a>
 <h1 align="center"><b>HEY I AM KING IBRAHIM</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
