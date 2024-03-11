@@ -6,7 +6,7 @@ BOT SLEEPING PROBLEM FIXED
                       
    <div align="center">
  👑<b>KING IBRAHIM MD</b>👑</b>
-	   
+	   Njj 
  HAVING ANY PROBLEM DM ME👉👉https://wa.me/message/74F2PC4JA4F3P1
   
   
